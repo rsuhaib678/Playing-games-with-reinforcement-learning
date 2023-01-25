@@ -1,4 +1,7 @@
 # Playing-games-with-reinforcement-learning
+
+Video Link: https://youtu.be/bZi8P6RNagU
+
 Created agent to play games using different reinforcement learning techniques
 
 Before executing the code, the following Python libraries need to be installed with a Python version of 3.7:
